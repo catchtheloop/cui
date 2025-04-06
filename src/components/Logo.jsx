@@ -8,7 +8,7 @@ export default function Logo(props) {
         className="em em-bird"
         aria-role="presentation"
         aria-label="BIRD"
-        style={{ fontSize: "0.7em" }}
+        style={{ fontSize: "0.5em" }}
       ></i>
     </div>
   );

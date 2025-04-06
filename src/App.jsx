@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Logo title="seb.ui" />
+      <Logo title="cui" />
       <div className="app app-bg flex">
         <Counter />
       </div>
